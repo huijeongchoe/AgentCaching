@@ -1,0 +1,15 @@
+[project]
+name = "agentcaching"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ddgs>=9.14.4",
+    "deepagents>=0.6.11",
+    "langchain>=1.3.10",
+    "langchain-anthropic>=1.4.6",
+    "langchain-openai>=1.3.2",
+    "python-dotenv>=1.0.0",
+    "requests>=2.34.2",
+]
